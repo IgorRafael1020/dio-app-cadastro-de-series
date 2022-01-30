@@ -1,2 +1,2 @@
-# dio-app-cadastro-de-series
-Projeto de cadastro de Séries
+# APP Cadastro de Séries
+Projeto de cadastro de Séries simples no console com .NET, feito no curso da DIO.
